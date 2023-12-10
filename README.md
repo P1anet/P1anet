@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/)
+💪🏻 Some description about me~
 
-💻 Interested in machine learning and processing in memory.
+🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/).
+
+💻 Majored in machine learning and processing in memory.
 
 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
@@ -10,7 +12,7 @@
 
 - [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (today)
 
-#### 🌱 Check out my latest commits
+#### 🌱 Check out my latest repos
 
 - [P1anet/MyAction](https://github.com/P1anet/MyAction) - 
 
@@ -34,11 +36,7 @@
 - [Vim基本操作及Linux下C&#43;&#43;开发环境配置](https://p1anet.github.io/2023/03/26/vim-envconfig/) (8 months ago)
 - [Linux高并发服务器开发](https://p1anet.github.io/2023/03/26/linux-webserver/) (8 months ago)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
+#### 👯‍♂️ How to reach me
 
 🖋 Blog：[Kenshin Blog](https://https://p1anet.github.io/) --- to be reconstructed
 
