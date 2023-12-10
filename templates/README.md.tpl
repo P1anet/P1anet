@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/)
+💪🏻 Some description about me~
 
-💻 Interested in machine learning and processing in memory.
+🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/).
+
+💻 Majored in machine learning and processing in memory.
 
 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
@@ -11,7 +13,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 Check out my latest commits
+#### 🌱 Check out my latest repos
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
@@ -31,11 +33,7 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
+#### 👯‍♂️ How to reach me
 
 🖋 Blog：[Kenshin Blog](https://https://p1anet.github.io/) --- to be reconstructed
 
