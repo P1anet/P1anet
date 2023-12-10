@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-💪🏻 Some description about me~
+#### 💪🏻 Some description about me~
 
-🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/).
+- 🎓 Received a bachelor's degree from [College of Electrical Engineering, Zhejiang University](http://ee.zju.edu.cn/), and currently studing for a master's degree in [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/).
 
-💻 Majored in machine learning and processing in memory.
+- 💻 Majored in machine learning and processing in memory.
 
-🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+- 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 #### 👷 Check out what I'm currently working on
 
@@ -38,13 +38,13 @@
 
 #### 👯‍♂️ How to reach me
 
-🖋 Blog：[Kenshin Blog](https://https://p1anet.github.io/) --- to be reconstructed
+- 🖋 Blog：[Kenshin Blog](https://https://p1anet.github.io/) --- to be reconstructed
 
-💡 Notion：[Personal Home](https://www.notion.so/Personal-Home-ce2fa1062dae41cc8f56525b5be3c23a?pvs=4) --- to be archived
+- 💡 Notion：[Personal Home](https://www.notion.so/Personal-Home-ce2fa1062dae41cc8f56525b5be3c23a?pvs=4) --- to be archived
 
-📫 Email: [zjxin@zju.edu.cn](zjxin@zju.edu.cn)
+- 📫 Email: [zjxin@zju.edu.cn](zjxin@zju.edu.cn)
 
-💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
+- 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
 
 
 
