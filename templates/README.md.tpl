@@ -1,4 +1,10 @@
-<a href="https://github.com/P1anet"><img align="right" src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f" width="300" /></a>
+<a href="https://github.com/P1anet">
+  <img
+    width="300"
+    align="right"
+    src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f"
+  />
+</a>
 
 ### Hi there 👋
 
@@ -14,7 +20,7 @@
 
 - 🚴‍♂️ Hobbies: Travel | Cycling | Photography | Fitness | Guitar.
 
-- 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe) and [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!
+- 🤔 Want your own self-generating profile page? Check out <a class="github-button" href="https://github.com/muesli/readme-scribe" aria-label="Check out muesli/readme-scribe on GitHub">muesli/readme-scribe</a>, <a class="github-button" href="https://github.com/anuraghazra/github-readme-stats" aria-label="Check out anuraghazra/github-readme-stats on GitHub">anuraghazra/github-readme-stats</a> and <a class="github-button" href="https://github.com/star-history/star-history" aria-label="Check out star-history/star-history on GitHub">star-history/star-history</a>!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -53,41 +59,29 @@
 
 - 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
 
-<a target='_blank' href="https://github.com/P1anet">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
+<a href="https://github.com/P1anet">
+  <img height=200 align="center" style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&hide=prs,contribs&show_icons=true&theme=transparent" />
 </a>
 
-<!--
-**P1anet/P1anet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+      https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date
     "
   />
   <img
+    height=200
+    align="center" 
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+    src="https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date"
   />
 </picture>
--->
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
