@@ -35,10 +35,10 @@
 #### ⭐ Check out my recent stars
 
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (today)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (today)
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 day ago)
-- [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool (1 day ago)
-- [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems (1 day ago)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (2 days ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (2 days ago)
+- [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. (2 days ago)
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow) (2 days ago)
 
 #### 👯 Check out my recent followers
 
