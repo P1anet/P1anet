@@ -1,4 +1,10 @@
-<a href="https://github.com/P1anet"><img align="right" src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f" width="300" /></a>
+<a href="https://github.com/P1anet">
+  <img
+    width="300"
+    align="right"
+    src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f"
+  />
+</a>
 
 ### Hi there 👋
 
@@ -14,7 +20,7 @@
 
 - 🚴‍♂️ Hobbies: Travel | Cycling | Photography | Fitness | Guitar.
 
-- 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe) and [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!
+- 🤔 Want your own self-generating profile page? Check out <a class="github-button" href="https://github.com/muesli/readme-scribe" aria-label="Check out muesli/readme-scribe on GitHub">muesli/readme-scribe</a>, <a class="github-button" href="https://github.com/anuraghazra/github-readme-stats" aria-label="Check out anuraghazra/github-readme-stats on GitHub">anuraghazra/github-readme-stats</a> and <a class="github-button" href="https://github.com/star-history/star-history" aria-label="Check out star-history/star-history on GitHub">star-history/star-history</a>!
 
 #### 👷 Check out what I'm currently working on
 
@@ -28,11 +34,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git (today)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (today)
-- [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud &#43; Pandora Server &#43; Shared Chat &#43; BackendAPI Proxy &#43; Chat2API &#43; Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! (today)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 (1 day ago)
+- [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool (1 day ago)
+- [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -58,9 +64,29 @@
 
 - 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
 
-<a target='_blank' href="https://github.com/P1anet">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
+<a href="https://github.com/P1anet">
+  <img height=200 align="center" style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&hide=prs,contribs&show_icons=true&theme=transparent" />
 </a>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date
+    "
+  />
+  <img
+    height=200
+    align="center" 
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date"
+  />
+</picture>
 
-
+<script async defer src="https://buttons.github.io/buttons.js"></script>
