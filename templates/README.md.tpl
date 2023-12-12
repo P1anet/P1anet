@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/P1anet"><img src="https://avatars.githubusercontent.com/u/44898226" alt="" width="150" /></a>
+</p>
+
+</br>
+
+<a target='_blank' href="https://github.com/P1anet">
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
+</a>
+
 #### 💪🏻 Something about me
 
 - 🌞 I'm Jianxin (a.k.a. Kenshin, _@P1anet_), whose dream is to become a wild iron man like [Peng Zhihui](https://github.com/peng-zhihui).
@@ -12,7 +22,7 @@
 
 - 🚴‍♂️ Hobbies: Travel | Cycling | Photography | Fitness | Guitar.
 
-- 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+- 🤔 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe) and [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
