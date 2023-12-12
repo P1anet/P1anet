@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-<a href="https://github.com/P1anet"><img src="https://avatars.githubusercontent.com/u/44898226" alt="" width="150" /></a>
-</p>
-
-</br>
-
-<a target='_blank' href="https://github.com/P1anet">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
-</a>
+<a href="https://github.com/P1anet"><img align="right" src="https://avatars.githubusercontent.com/u/44898226" width="150" /></a>
 
 #### 💪🏻 Something about me
 
@@ -60,6 +52,10 @@
 - 📫 Email: [zjxin@zju.edu.cn](zjxin@zju.edu.cn)
 
 - 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
+
+<a target='_blank' href="https://github.com/P1anet">
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
+</a>
 
 <!--
 **P1anet/P1anet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
