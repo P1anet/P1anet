@@ -1,4 +1,4 @@
-<a href="https://github.com/P1anet"><img align="right" src="https://private-user-images.githubusercontent.com/44898226/289854017-f5e7b989-3633-41f8-a4cd-01dd0e7be76b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzODMzOTcsIm5iZiI6MTcwMjM4MzA5NywicGF0aCI6Ii80NDg5ODIyNi8yODk4NTQwMTctZjVlN2I5ODktMzYzMy00MWY4LWE0Y2QtMDFkZDBlN2JlNzZiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEyVDEyMTEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmYzY2MmQ4NzlmODI5Mjg4Mjc5MjIxNWU0M2MwOTU2NDA0Zjg2Njk4YWFkM2UwMzBjMTQ0NTEyYWY5M2RlZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qR1IDgxBSwTFBgy8L-l6dfcz_cefCwDAh4eFddocgoI" width="300" /></a>
+<a href="https://github.com/P1anet"><img align="right" src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f" width="300" /></a>
 
 ### Hi there 👋
 
