@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-<a href="https://github.com/P1anet"><img src="https://avatars.githubusercontent.com/u/44898226" alt="" width="150" /></a>
-</p>
-
-</br>
-
-<a target='_blank' href="https://github.com/P1anet">
-  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
-</a>
+<a href="https://github.com/P1anet"><img align="right" src="https://avatars.githubusercontent.com/u/44898226" width="150" /></a>
 
 #### 💪🏻 Something about me
 
@@ -50,9 +42,9 @@
 
 - [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (today)
 - [CC98白嫖系列搬运](https://p1anet.github.io/2023/12/12/cc98-tools/) (today)
+- [各种学习路线汇总](https://p1anet.github.io/2023/12/12/learning-route/) (today)
 - [代码随想录专题算法一刷记录](https://p1anet.github.io/2023/10/29/algorithm/) (1 month ago)
 - [2023伞友服介绍以及订购登记](https://p1anet.github.io/2023/05/31/cycling-cloth/) (6 months ago)
-- [Makefile](https://p1anet.github.io/2023/05/11/makefile/) (7 months ago)
 
 #### 👯‍♂️ How to reach me
 
@@ -65,6 +57,10 @@
 - 📫 Email: [zjxin@zju.edu.cn](zjxin@zju.edu.cn)
 
 - 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
+
+<a target='_blank' href="https://github.com/P1anet">
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&count_private=true&hide=prs,contribs&show_icons=true" />
+</a>
 
 
 
