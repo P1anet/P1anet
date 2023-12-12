@@ -1,3 +1,7 @@
+### Hi there 👋
+
+#### 💪🏻 Something about me
+
 <a href="https://github.com/P1anet">
   <img
     width="300"
@@ -5,10 +9,6 @@
     src="https://github.com/P1anet/P1anet/assets/44898226/b7425220-81d2-4e29-9c46-ae3b866bd83f"
   />
 </a>
-
-### Hi there 👋
-
-#### 💪🏻 Something about me
 
 - 🌞 I'm Jianxin (a.k.a. Kenshin, _@P1anet_), whose dream is to become a wild iron man like [Peng Zhihui](https://github.com/peng-zhihui).
 
@@ -20,7 +20,7 @@
 
 - 🚴‍♂️ Hobbies: Travel | Cycling | Photography | Fitness | Guitar.
 
-- 🤔 Want your own self-generating profile page? Check out <a class="github-button" href="https://github.com/muesli/readme-scribe" aria-label="Check out muesli/readme-scribe on GitHub">muesli/readme-scribe</a>, <a class="github-button" href="https://github.com/anuraghazra/github-readme-stats" aria-label="Check out anuraghazra/github-readme-stats on GitHub">anuraghazra/github-readme-stats</a> and <a class="github-button" href="https://github.com/star-history/star-history" aria-label="Check out star-history/star-history on GitHub">star-history/star-history</a>!
+- 🤔 Want your own self-generating profile page? Check out [muesli/readme-scribe](https://github.com/muesli/readme-scribe), [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [star-history/star-history](https://github.com/star-history/star-history)!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -60,7 +60,7 @@
 - 💬 Wechat: [View QR code in issue #1](https://github.com/P1anet/P1anet/issues/1)
 
 <a href="https://github.com/P1anet">
-  <img height=200 align="center" style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=P1anet&hide=prs,contribs&show_icons=true&theme=transparent" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=P1anet&show_icons=true&theme=transparent" />
 </a>
 
 <picture>
@@ -77,11 +77,9 @@
     "
   />
   <img
-    height=200
-    align="center" 
+    height=180
+    align="right" 
     alt="Star History Chart"
     src="https://api.star-history.com/svg?repos=P1anet/P1anet&type=Date"
   />
 </picture>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
