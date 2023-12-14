@@ -24,21 +24,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (1 day ago)
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (3 days ago)
+- [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (today)
+- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (2 days ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (4 days ago)
 
 #### 🌱 Check out my latest repos
 
+- [P1anet/MyRules](https://github.com/P1anet/MyRules) - 
 - [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook
 - [P1anet/MyAction](https://github.com/P1anet/MyAction) - 
 
 #### ⭐ Check out my recent stars
 
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (3 days ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (3 days ago)
-- [ISCS-ZJU/Zplot-demo](https://github.com/ISCS-ZJU/Zplot-demo) - Zplot demos (3 days ago)
-- [mhirki/rapl-tools](https://github.com/mhirki/rapl-tools) - Tools for experimenting with Running Average Power Limit (RAPL) (3 days ago)
-- [kentcz/rapl-tools](https://github.com/kentcz/rapl-tools) - Tools for monitoring CPU power with Intel&#39;s RAPL interface (3 days ago)
+- [SubConv/SubConv.github.io](https://github.com/SubConv/SubConv.github.io) -  (today)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (4 days ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (4 days ago)
+- [ISCS-ZJU/Zplot-demo](https://github.com/ISCS-ZJU/Zplot-demo) - Zplot demos (4 days ago)
+- [mhirki/rapl-tools](https://github.com/mhirki/rapl-tools) - Tools for experimenting with Running Average Power Limit (RAPL) (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -46,11 +48,11 @@
 
 #### 📜 Check out my recent blog posts
 
-- [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (1 day ago)
-- [CC98白嫖系列搬运](https://p1anet.github.io/2023/12/12/cc98-tools/) (1 day ago)
-- [各种学习路线汇总](https://p1anet.github.io/2023/12/12/learning-route/) (1 day ago)
+- [开发环境配置记录](https://p1anet.github.io/2023/12/14/development-environment/) (today)
+- [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (2 days ago)
+- [CC98白嫖系列搬运](https://p1anet.github.io/2023/12/12/cc98-tools/) (2 days ago)
+- [各种学习路线汇总](https://p1anet.github.io/2023/12/12/learning-route/) (2 days ago)
 - [国网复习备考](https://p1anet.github.io/2023/11/10/sgcc-review/) (1 month ago)
-- [代码随想录专题算法一刷记录](https://p1anet.github.io/2023/10/29/algorithm/) (1 month ago)
 
 #### 👯‍♂️ How to reach me
 
