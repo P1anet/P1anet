@@ -24,9 +24,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (today)
-- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (2 days ago)
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (4 days ago)
+- [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (1 day ago)
+- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (3 days ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (5 days ago)
 
 #### 🌱 Check out my latest repos
 
@@ -36,11 +36,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [SubConv/SubConv.github.io](https://github.com/SubConv/SubConv.github.io) -  (today)
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (4 days ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (4 days ago)
-- [ISCS-ZJU/Zplot-demo](https://github.com/ISCS-ZJU/Zplot-demo) - Zplot demos (4 days ago)
-- [mhirki/rapl-tools](https://github.com/mhirki/rapl-tools) - Tools for experimenting with Running Average Power Limit (RAPL) (4 days ago)
+- [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (today)
+- [SubConv/SubConv.github.io](https://github.com/SubConv/SubConv.github.io) -  (1 day ago)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (5 days ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (5 days ago)
+- [ISCS-ZJU/Zplot-demo](https://github.com/ISCS-ZJU/Zplot-demo) - Zplot demos (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -48,11 +48,11 @@
 
 #### 📜 Check out my recent blog posts
 
-- [开发环境配置记录](https://p1anet.github.io/2023/12/14/development-environment/) (today)
-- [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (2 days ago)
-- [CC98白嫖系列搬运](https://p1anet.github.io/2023/12/12/cc98-tools/) (2 days ago)
-- [各种学习路线汇总](https://p1anet.github.io/2023/12/12/learning-route/) (2 days ago)
-- [国网复习备考](https://p1anet.github.io/2023/11/10/sgcc-review/) (1 month ago)
+- [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (today)
+- [开发环境配置记录](https://p1anet.github.io/2023/12/14/development-environment/) (1 day ago)
+- [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (3 days ago)
+- [CC98白嫖系列搬运](https://p1anet.github.io/2023/12/12/cc98-tools/) (3 days ago)
+- [各种学习路线汇总](https://p1anet.github.io/2023/12/12/learning-route/) (3 days ago)
 
 #### 👯‍♂️ How to reach me
 
