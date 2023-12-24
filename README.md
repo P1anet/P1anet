@@ -24,8 +24,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (6 days ago)
-- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (6 days ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (1 week ago)
+- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (1 week ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (1 week ago)
 - [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (1 week ago)
 
@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (2 days ago)
+- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (3 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [SubConv/SubConv.github.io](https://github.com/SubConv/SubConv.github.io) -  (1 week ago)
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (1 week ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (1 week ago)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (2 weeks ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -50,11 +50,11 @@
 
 #### 📜 Check out my recent blog posts
 
-- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/20/57318/) (3 days ago)
-- [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (5 days ago)
+- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (today)
+- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (2 days ago)
+- [转载57318-2019版攻略](https://p1anet.github.io/2023/12/20/57318/) (4 days ago)
+- [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (6 days ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (1 week ago)
-- [开发环境配置记录](https://p1anet.github.io/2023/12/14/development-environment/) (1 week ago)
-- [【转载】如何从0开始制作幻灯片](https://p1anet.github.io/2023/12/12/how-to-make-slides/) (1 week ago)
 
 #### 👯‍♂️ How to reach me
 
