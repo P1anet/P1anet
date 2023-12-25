@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (3 days ago)
+- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (today)
+- [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (today)
+- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (4 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 - [SubConv/SubConv.github.io](https://github.com/SubConv/SubConv.github.io) -  (1 week ago)
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (2 weeks ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -50,10 +50,10 @@
 
 #### 📜 Check out my recent blog posts
 
-- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (today)
-- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (2 days ago)
-- [转载57318-2019版攻略](https://p1anet.github.io/2023/12/20/57318/) (4 days ago)
-- [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (6 days ago)
+- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (1 day ago)
+- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (3 days ago)
+- [转载57318-2019版攻略](https://p1anet.github.io/2023/12/20/57318/) (5 days ago)
+- [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (1 week ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (1 week ago)
 
 #### 👯‍♂️ How to reach me
