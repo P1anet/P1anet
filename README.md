@@ -38,10 +38,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (today)
-- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (1 day ago)
-- [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (1 day ago)
-- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (5 days ago)
+- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (1 day ago)
+- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (2 days ago)
+- [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (2 days ago)
+- [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (6 days ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -50,9 +50,9 @@
 
 #### 📜 Check out my recent blog posts
 
-- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (2 days ago)
-- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (4 days ago)
-- [转载57318-2019版攻略](https://p1anet.github.io/2023/12/20/57318/) (6 days ago)
+- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (3 days ago)
+- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (5 days ago)
+- [转载57318-2019版攻略](https://p1anet.github.io/2023/12/20/57318/) (1 week ago)
 - [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (1 week ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (1 week ago)
 
