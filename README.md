@@ -24,8 +24,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (1 day ago)
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (1 week ago)
+- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (2 days ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (2 weeks ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (2 weeks ago)
 - [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (2 weeks ago)
 
@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (4 days ago)
-- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (5 days ago)
-- [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (5 days ago)
+- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (5 days ago)
+- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (6 days ago)
+- [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (6 days ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (1 week ago)
 - [OneSizeFitsQuorum/OneSizeFitsQuorum.github.io](https://github.com/OneSizeFitsQuorum/OneSizeFitsQuorum.github.io) - 个人主页 (2 weeks ago)
 
@@ -50,7 +50,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (6 days ago)
+- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (1 week ago)
 - [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (1 week ago)
 - [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (1 week ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (2 weeks ago)
