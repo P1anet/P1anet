@@ -24,10 +24,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (3 days ago)
+- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (4 days ago)
 - [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (2 weeks ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (2 weeks ago)
-- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (2 weeks ago)
+- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (3 weeks ago)
 
 #### 🌱 Check out my latest repos
 
@@ -38,7 +38,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (6 days ago)
+- [codeantenna/codeantenna.github.io](https://github.com/codeantenna/codeantenna.github.io) -  (1 week ago)
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files. (1 week ago)
 - [goodpaperman/roadbook](https://github.com/goodpaperman/roadbook) - show navigation map in video (1 week ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (1 week ago)
