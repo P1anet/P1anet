@@ -25,7 +25,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (1 week ago)
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (2 weeks ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (3 weeks ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (3 weeks ago)
 - [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (3 weeks ago)
 
@@ -50,7 +50,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (1 week ago)
+- [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (2 weeks ago)
 - [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (2 weeks ago)
 - [摄影前期后期记录](https://p1anet.github.io/2023/12/18/photography/) (2 weeks ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (3 weeks ago)
