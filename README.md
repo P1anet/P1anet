@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (6 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (1 month ago)
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (1 month ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (1 month ago)
-- [mhirki/rapl-tools](https://github.com/mhirki/rapl-tools) - Tools for experimenting with Running Average Power Limit (RAPL) (1 month ago)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (2 months ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (2 months ago)
+- [mhirki/rapl-tools](https://github.com/mhirki/rapl-tools) - Tools for experimenting with Running Average Power Limit (RAPL) (2 months ago)
 
 #### 👯 Check out my recent followers
 
