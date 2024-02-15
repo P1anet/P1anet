@@ -25,7 +25,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (1 month ago)
-- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (1 month ago)
+- [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (2 months ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (2 months ago)
 - [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (2 months ago)
 
@@ -38,7 +38,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 weeks ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (1 month ago)
 - [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (2 months ago)
 - [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (2 months ago)
