@@ -38,14 +38,15 @@
 
 #### ⭐ Check out my recent stars
 
-- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (1 week ago)
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (2 weeks ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 months ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (3 months ago)
-- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (3 months ago)
-- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (3 months ago)
+- [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (4 months ago)
+- [youngyangyang04/PowerSqlgen](https://github.com/youngyangyang04/PowerSqlgen) - Generate sqls to test mysql database (4 months ago)
 
 #### 👯 Check out my recent followers
 
+- [CupOfBread](https://github.com/CupOfBread)
 - [swordfate](https://github.com/swordfate)
 
 #### 📜 Check out my recent blog posts
