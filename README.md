@@ -38,7 +38,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (4 weeks ago)
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 months ago)
 - [OUCMachineLearning/OUCML](https://github.com/OUCMachineLearning/OUCML) -  (4 months ago)
 - [youngyangyang04/Gomoku](https://github.com/youngyangyang04/Gomoku) - 五子棋对战游戏，支持多个client同时在线对战，由于游戏性质，使用典型的同步阻塞IO模型，多进程提供服务 (4 months ago)
