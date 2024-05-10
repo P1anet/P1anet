@@ -27,7 +27,7 @@
 - [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (3 months ago)
 - [P1anet/MyAction](https://github.com/P1anet/MyAction) -  (4 months ago)
 - [P1anet/MyRules](https://github.com/P1anet/MyRules) -  (4 months ago)
-- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (4 months ago)
+- [P1anet/MyBook](https://github.com/P1anet/MyBook) - Sync with GitBook (5 months ago)
 
 #### 🌱 Check out my latest repos
 
@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (3 days ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 days ago)
-- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (3 days ago)
+- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (4 days ago)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (4 days ago)
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (4 days ago)
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 months ago)
 
