@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (1 week ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (1 week ago)
-- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (1 week ago)
+- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (2 weeks ago)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 weeks ago)
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (2 weeks ago)
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (1 month ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (3 months ago)
 
@@ -53,7 +53,7 @@
 
 - [杭州骑行路线分享](https://p1anet.github.io/2024/01/31/bikeroutes/) (3 months ago)
 - [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (4 months ago)
-- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (4 months ago)
+- [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (5 months ago)
 - [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (5 months ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (5 months ago)
 
