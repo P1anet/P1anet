@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (1 month ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (1 month ago)
-- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (1 month ago)
+- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (2 months ago)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (2 months ago)
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (2 months ago)
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (3 months ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (5 months ago)
 
