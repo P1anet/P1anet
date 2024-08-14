@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (6 days ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (today)
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (today)
+- [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (1 week ago)
 - [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (3 months ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
-- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo (3 months ago)
-- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks. (4 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -54,7 +54,7 @@
 - [杭州骑行路线分享](https://p1anet.github.io/2024/01/31/bikeroutes/) (6 months ago)
 - [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (7 months ago)
 - [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (7 months ago)
-- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (7 months ago)
+- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (8 months ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (8 months ago)
 
 #### 👯‍♂️ How to reach me
