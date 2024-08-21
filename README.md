@@ -38,9 +38,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (6 days ago)
-- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (6 days ago)
-- [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (1 week ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (1 week ago)
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (1 week ago)
+- [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (2 weeks ago)
 - [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (3 months ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (3 months ago)
 
