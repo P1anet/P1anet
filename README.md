@@ -38,8 +38,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (4 weeks ago)
-- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (4 weeks ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (1 month ago)
+- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (1 month ago)
 - [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (1 month ago)
 - [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) -  (4 months ago)
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (4 months ago)
@@ -54,7 +54,7 @@
 - [杭州骑行路线分享](https://p1anet.github.io/2024/01/31/bikeroutes/) (7 months ago)
 - [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (8 months ago)
 - [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (8 months ago)
-- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (8 months ago)
+- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (9 months ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (9 months ago)
 
 #### 👯‍♂️ How to reach me
