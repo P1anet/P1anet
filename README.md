@@ -38,11 +38,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (today)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (today)
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (today)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 (today)
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (2 months ago)
-- [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags. (2 months ago)
-- [TestFX/TestFX](https://github.com/TestFX/TestFX) - Simple and clean testing for JavaFX. (2 months ago)
-- [gooin/dailysync-rev](https://github.com/gooin/dailysync-rev) - 佳明运动数据同步与采集工具 (5 months ago)
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page (5 months ago)
 
 #### 👯 Check out my recent followers
 
