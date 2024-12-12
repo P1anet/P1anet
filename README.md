@@ -42,7 +42,7 @@
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (1 month ago)
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (1 month ago)
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 (1 month ago)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (3 months ago)
+- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (4 months ago)
 
 #### 👯 Check out my recent followers
 
@@ -54,7 +54,7 @@
 - [杭州骑行路线分享](https://p1anet.github.io/2024/01/31/bikeroutes/) (10 months ago)
 - [个人使用软件列表](https://p1anet.github.io/2023/12/24/apps/) (11 months ago)
 - [318川藏南线骑行计划](https://p1anet.github.io/2023/12/22/318-plan/) (11 months ago)
-- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (11 months ago)
+- [摄影笔记](https://p1anet.github.io/2023/12/18/photography/) (1 year ago)
 - [Git - 分布式版本控制工具](https://p1anet.github.io/2023/12/15/git/) (1 year ago)
 
 #### 👯‍♂️ How to reach me
