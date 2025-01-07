@@ -24,7 +24,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (11 months ago)
+- [P1anet/MyWheels](https://github.com/P1anet/MyWheels) -  (1 year ago)
 
 #### 🌱 Check out my latest repos
 
@@ -35,11 +35,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端） (today)
+- [eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat) - golang微信SDK (today)
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android. (2 months ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (2 months ago)
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API. (2 months ago)
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 (2 months ago)
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (4 months ago)
 
 #### 👯 Check out my recent followers
 
