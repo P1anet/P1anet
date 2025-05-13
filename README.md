@@ -42,6 +42,7 @@
 
 #### 👯 Check out my recent followers
 
+- [Leonmx-Zhong](https://github.com/Leonmx-Zhong)
 - [CupOfBread](https://github.com/CupOfBread)
 - [swordfate](https://github.com/swordfate)
 
