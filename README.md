@@ -34,11 +34,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！ (3 days ago)
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend (3 days ago)
-- [joey-zhou/xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案 (3 days ago)
-- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server. (3 days ago)
-- [avxxoo/xiaozhi-mcp](https://github.com/avxxoo/xiaozhi-mcp) - 小智MCP合集 (3 days ago)
+- [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！ (4 days ago)
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend (4 days ago)
+- [joey-zhou/xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案 (4 days ago)
+- [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server. (4 days ago)
+- [avxxoo/xiaozhi-mcp](https://github.com/avxxoo/xiaozhi-mcp) - 小智MCP合集 (4 days ago)
 
 #### 👯 Check out my recent followers
 
