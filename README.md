@@ -34,8 +34,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler) - 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler! (5 days ago)
-- [CloudTracey/arknights-frame-assistant](https://github.com/CloudTracey/arknights-frame-assistant) - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能 (5 days ago)
+- [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler) - 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler! (6 days ago)
+- [CloudTracey/arknights-frame-assistant](https://github.com/CloudTracey/arknights-frame-assistant) - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能 (6 days ago)
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom. (4 months ago)
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression (7 months ago)
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则 (7 months ago)
