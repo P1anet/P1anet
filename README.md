@@ -34,7 +34,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (2 days ago)
+- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (3 days ago)
 - [Hollow-YK/Miao3trike_Flutter](https://github.com/Hollow-YK/Miao3trike_Flutter) - 一个明日方舟划火柴小工具的魔改版再把UI改成Flutter (3 weeks ago)
 - [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike) - 一个明日方舟划火柴小工具 (3 weeks ago)
 - [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler) - 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler! (1 month ago)
