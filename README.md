@@ -35,8 +35,8 @@
 #### ⭐ Check out my recent stars
 
 - [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (1 week ago)
-- [Hollow-YK/Miao3trike_Flutter](https://github.com/Hollow-YK/Miao3trike_Flutter) - 一个明日方舟划火柴小工具的魔改版再把UI改成Flutter (4 weeks ago)
-- [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike) - 一个明日方舟划火柴小工具 (4 weeks ago)
+- [Hollow-YK/Miao3trike_Flutter](https://github.com/Hollow-YK/Miao3trike_Flutter) - 一个明日方舟划火柴小工具的魔改版再把UI改成Flutter (1 month ago)
+- [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike) - 一个明日方舟划火柴小工具 (1 month ago)
 - [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler) - 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler! (1 month ago)
 - [CloudTracey/arknights-frame-assistant](https://github.com/CloudTracey/arknights-frame-assistant) - 明日方舟帧操小助手 ArknightsFrameAssistant，简称 AFA。这是一个用于优化明日方舟 PC 端体验的简单小工具，提供全按键自定义、高精度操作等功能 (1 month ago)
 
