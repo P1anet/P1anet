@@ -34,11 +34,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OwlHowlinMornSky/AssetStudio-Arknights](https://github.com/OwlHowlinMornSky/AssetStudio-Arknights) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (1 day ago)
+- [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (1 day ago)
 - [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. (1 month ago)
 - [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (2 months ago)
 - [Hollow-YK/Miao3trike_Flutter](https://github.com/Hollow-YK/Miao3trike_Flutter) - 一个明日方舟划火柴小工具的魔改版再把UI改成Flutter (3 months ago)
-- [ESHIWU/Miao3trike](https://github.com/ESHIWU/Miao3trike) - 一个明日方舟划火柴小工具 (3 months ago)
-- [ZeroAd-06/ArknightsCostBarRuler](https://github.com/ZeroAd-06/ArknightsCostBarRuler) - 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler! (4 months ago)
 
 #### 👯 Check out my recent followers
 
