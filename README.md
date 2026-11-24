@@ -34,8 +34,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [OwlHowlinMornSky/AssetStudio-Arknights](https://github.com/OwlHowlinMornSky/AssetStudio-Arknights) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (2 weeks ago)
-- [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (2 weeks ago)
+- [OwlHowlinMornSky/AssetStudio-Arknights](https://github.com/OwlHowlinMornSky/AssetStudio-Arknights) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (3 weeks ago)
+- [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. (3 weeks ago)
 - [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets. (2 months ago)
 - [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (3 months ago)
 - [Hollow-YK/Miao3trike_Flutter](https://github.com/Hollow-YK/Miao3trike_Flutter) - 一个明日方舟划火柴小工具的魔改版再把UI改成Flutter (4 months ago)
